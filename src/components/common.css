@@ -1,0 +1,15 @@
+.main {
+    margin: 10px;
+}
+
+.sub {
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: skyblue;
+}
+
+h2 {
+    color: red;
+}
